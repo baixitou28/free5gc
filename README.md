@@ -19,7 +19,7 @@ For more information, please refer to [free5GC official site](https://free5gc.or
 
 ## Documentation
 
-For document, please reference to [Forum Documentation](https://forum.free5gc.org/c/document/15).
+For document, please reference to [Documentation](https://github.com/free5gc/free5gc/wiki).
 
 ## Discussion
 
